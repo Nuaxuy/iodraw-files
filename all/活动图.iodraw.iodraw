@@ -1,0 +1,268 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="FNJO0NliyMJJ43TYFNg1">
+    <mxGraphModel dx="3391" dy="3270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qeGd5BJN_0FW57sXrynW-2" value="    Start([开始]) -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-599" y="751" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-3" value=" A[用户访问登录页面]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-779" y="721" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-4" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-2" target="qeGd5BJN_0FW57sXrynW-3" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-5" value="    A -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="601" y="1671" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-6" value=" B[输入账号和密码]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="1601" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-7" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-5" target="qeGd5BJN_0FW57sXrynW-6" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-8" value="    B -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="1441" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-9" value=" C{账号是否为空?}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1411" y="1521" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-10" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-8" target="qeGd5BJN_0FW57sXrynW-9" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-11" value="    C -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="2051" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-12" value="|是| D[显示&quot;账户不能为空&quot;提示]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="2031" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-13" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-11" target="qeGd5BJN_0FW57sXrynW-12" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-14" value="    D -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1069" y="2391" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-15" value=" End1([结束])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1209" y="2291" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-16" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-14" target="qeGd5BJN_0FW57sXrynW-15" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-17" value="|否| E{密码是否为空?}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="221" y="2131" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-18" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-11" target="qeGd5BJN_0FW57sXrynW-17" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-19" value="    E -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="831" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-20" value="|是| F[显示&quot;密码不能为空&quot;提示]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-89" y="661" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-21" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-19" target="qeGd5BJN_0FW57sXrynW-20" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-22" value="    F -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2141" y="1511" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-23" value=" End2([结束])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2131" y="1341" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-24" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-22" target="qeGd5BJN_0FW57sXrynW-23" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-25" value="|否| G[点击&quot;立即登录&quot;按钮]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-139" y="1001" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-26" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-19" target="qeGd5BJN_0FW57sXrynW-25" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-27" value="    G -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-149" y="1481" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-28" value=" H[构建FormData数据]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-339" y="1511" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-29" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-27" target="qeGd5BJN_0FW57sXrynW-28" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-30" value="    H -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1231" y="991" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-31" value=" I[调用login API发送请求]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="861" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-32" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-30" target="qeGd5BJN_0FW57sXrynW-31" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-33" value="    I -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="-459" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-34" value=" J[UserController接收登录请求]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="501" y="-449" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-35" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-33" target="qeGd5BJN_0FW57sXrynW-34" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-36" value="    J -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-819" y="1891" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-37" value=" K[UserService执行登录逻辑]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-719" y="1951" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-38" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-36" target="qeGd5BJN_0FW57sXrynW-37" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-39" value="    K -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-799" y="1281" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-40" value=" L{查询用户是否存在?}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-989" y="1291" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-41" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-39" target="qeGd5BJN_0FW57sXrynW-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-42" value="    L -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="591" y="1061" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-43" value="|不存在| M[返回&quot;该用户名没用注册&quot;]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="991" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-44" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-42" target="qeGd5BJN_0FW57sXrynW-43" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-45" value="    M -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-339" y="121" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-46" value=" N{响应码是否为200?}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-519" y="191" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-47" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-45" target="qeGd5BJN_0FW57sXrynW-46" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-48" value="|存在| O{密码是否匹配?}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="721" y="1131" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-49" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-42" target="qeGd5BJN_0FW57sXrynW-48" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-50" value="    O -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="961" y="441" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-51" value="|不匹配| P[返回&quot;密码错误&quot;]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1081" y="351" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-52" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-50" target="qeGd5BJN_0FW57sXrynW-51" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-53" value="    P -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1049" y="211" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-54" value=" N" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1169" y="351" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-55" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-53" target="qeGd5BJN_0FW57sXrynW-54" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-56" value="|匹配| Q[获取用户信息&lt;br/&gt;含identity字段]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="781" y="541" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-57" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-50" target="qeGd5BJN_0FW57sXrynW-56" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-58" value="    Q -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-499" y="-419" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-59" value=" R[返回登录成功及用户数据]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-379" y="-449" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-60" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-58" target="qeGd5BJN_0FW57sXrynW-59" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-61" value="    R -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1289" y="501" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-62" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-61" target="qeGd5BJN_0FW57sXrynW-54" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-63" value="    N -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="221" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-64" value="|否| S[显示错误提示信息]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="151" y="311" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-65" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-63" target="qeGd5BJN_0FW57sXrynW-64" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-66" value="    S -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-979" y="-709" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-67" value=" End3([结束])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1049" y="-559" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-68" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-66" target="qeGd5BJN_0FW57sXrynW-67" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-69" value="|是| T[将用户信息存入Vuex Store]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="401" y="101" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-70" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-63" target="qeGd5BJN_0FW57sXrynW-69" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-71" value="    T -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="841" y="-1489" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-72" value=" U[显示&quot;登录成功&quot;提示]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="951" y="-1389" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-73" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-71" target="qeGd5BJN_0FW57sXrynW-72" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-74" value="    U -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1771" y="131" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-75" value=" V{判断用户身份identity?}" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1671" y="291" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-76" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-74" target="qeGd5BJN_0FW57sXrynW-75" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-77" value="    V -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1191" y="-339" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-78" value="|identity=1 管理员| W[跳转至后台管理页面 /admin]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1211" y="-479" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-79" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-77" target="qeGd5BJN_0FW57sXrynW-78" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-80" value="|identity≠1 普通用户| X[跳转至首页 /]" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="991" y="-209" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-81" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-77" target="qeGd5BJN_0FW57sXrynW-80" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-82" value="    W -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-699" y="-1239" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-83" value=" End4([结束])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-549" y="-1159" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-84" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-82" target="qeGd5BJN_0FW57sXrynW-83" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-85" value="    X -" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="381" y="-1019" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-86" value=" End5([结束])" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="-1009" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qeGd5BJN_0FW57sXrynW-87" value="" style="rounded=0;" edge="1" source="qeGd5BJN_0FW57sXrynW-85" target="qeGd5BJN_0FW57sXrynW-86" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
