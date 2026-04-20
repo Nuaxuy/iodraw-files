@@ -1099,8 +1099,7 @@
         <mxCell id="qeGd5BJN_0FW57sXrynW-635" value="被订购" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.496;exitY=0.947;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-578" target="qeGd5BJN_0FW57sXrynW-583">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="374" />
-              <mxPoint x="860" y="520" />
+              <mxPoint x="1070" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
