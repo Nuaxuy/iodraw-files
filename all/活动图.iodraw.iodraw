@@ -1063,7 +1063,7 @@
             <mxRectangle width="30" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeGd5BJN_0FW57sXrynW-630" value="拥有" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-397" target="qeGd5BJN_0FW57sXrynW-428">
+        <mxCell id="qeGd5BJN_0FW57sXrynW-630" value="拥有" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-408" target="qeGd5BJN_0FW57sXrynW-434">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1890" y="374" />
