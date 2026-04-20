@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_RXHzBYgusoBMnLRVK4D-1" value="数据存储层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="2944" y="440" width="378" height="165" as="geometry" />
+          <mxGeometry x="770.5" y="1440" width="378" height="165" as="geometry" />
         </mxCell>
         <mxCell id="_RXHzBYgusoBMnLRVK4D-2" value="MySQL 8.0&#xa;bookstore数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="_RXHzBYgusoBMnLRVK4D-1">
           <mxGeometry x="43" y="46" width="134" height="90" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="429" y="46" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="_RXHzBYgusoBMnLRVK4D-11" value="应用层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="745.5" y="650" width="428" height="123" as="geometry" />
+          <mxGeometry x="757.5" y="640" width="428" height="123" as="geometry" />
         </mxCell>
         <mxCell id="_RXHzBYgusoBMnLRVK4D-12" value="Spring Boot" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_RXHzBYgusoBMnLRVK4D-11">
           <mxGeometry x="43" y="46" width="142" height="48" as="geometry" />
