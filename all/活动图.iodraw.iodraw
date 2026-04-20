@@ -14,7 +14,7 @@
           <mxGeometry x="227" y="57" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="_RXHzBYgusoBMnLRVK4D-4" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="1190" width="404" height="141" as="geometry" />
+          <mxGeometry x="781.5" y="1190" width="404" height="141" as="geometry" />
         </mxCell>
         <mxCell id="_RXHzBYgusoBMnLRVK4D-5" value="MyBatis-Plus&#xa;ORM框架" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_RXHzBYgusoBMnLRVK4D-4">
           <mxGeometry x="43" y="46" width="150" height="66" as="geometry" />
@@ -70,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_RXHzBYgusoBMnLRVK4D-21" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_RXHzBYgusoBMnLRVK4D-4" target="_RXHzBYgusoBMnLRVK4D-1">
+        <mxCell id="_RXHzBYgusoBMnLRVK4D-21" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_RXHzBYgusoBMnLRVK4D-4" target="_RXHzBYgusoBMnLRVK4D-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
