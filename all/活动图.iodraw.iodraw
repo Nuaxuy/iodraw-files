@@ -55,12 +55,12 @@
         <mxCell id="_RXHzBYgusoBMnLRVK4D-17" value="Vue Router + Vuex" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="_RXHzBYgusoBMnLRVK4D-14">
           <mxGeometry x="401" y="46" width="191" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="_RXHzBYgusoBMnLRVK4D-18" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_RXHzBYgusoBMnLRVK4D-14" target="_RXHzBYgusoBMnLRVK4D-11">
+        <mxCell id="_RXHzBYgusoBMnLRVK4D-18" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_RXHzBYgusoBMnLRVK4D-14" target="_RXHzBYgusoBMnLRVK4D-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_RXHzBYgusoBMnLRVK4D-19" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="_RXHzBYgusoBMnLRVK4D-11" target="_RXHzBYgusoBMnLRVK4D-7">
+        <mxCell id="_RXHzBYgusoBMnLRVK4D-19" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_RXHzBYgusoBMnLRVK4D-11" target="_RXHzBYgusoBMnLRVK4D-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
