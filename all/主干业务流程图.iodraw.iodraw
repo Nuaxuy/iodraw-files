@@ -210,7 +210,7 @@
         <mxCell id="00vAYonrYD4jR4OucdhU-2" value="进入首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="1140" width="132" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="00vAYonrYD4jR4OucdhU-3" value="登录成功？" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="00vAYonrYD4jR4OucdhU-3" value="登录是否成功" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="1380" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="00vAYonrYD4jR4OucdhU-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="00vAYonrYD4jR4OucdhU-2" target="86V-ai54rhiC4k1AqPEN-19">
@@ -240,6 +240,9 @@
         </mxCell>
         <mxCell id="00vAYonrYD4jR4OucdhU-13" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1418" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="00vAYonrYD4jR4OucdhU-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1348" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
