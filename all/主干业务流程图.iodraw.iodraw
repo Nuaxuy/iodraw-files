@@ -14,7 +14,7 @@
           <mxGeometry x="318" y="1268.5" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-21" value="用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="641" y="1425" width="112" height="112" as="geometry" />
+          <mxGeometry x="540.5" y="1440" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-22" value="用户购物流程" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="310" y="1609" width="156" height="48" as="geometry" />
