@@ -7,8 +7,8 @@
         <mxCell id="aClWTZQQUmX9oW4Iw2U--1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="240" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aClWTZQQUmX9oW4Iw2U--2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="260" width="30" height="60" as="geometry" />
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="300" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
