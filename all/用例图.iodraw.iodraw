@@ -292,8 +292,8 @@
         <mxCell id="aClWTZQQUmX9oW4Iw2U--86" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="-110" width="600" height="1670" as="geometry" />
         </mxCell>
-        <mxCell id="aClWTZQQUmX9oW4Iw2U--87" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="1280" width="120" height="60" as="geometry" />
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--88" value="Object" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1350" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
