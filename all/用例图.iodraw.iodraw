@@ -244,6 +244,9 @@
         <mxCell id="aClWTZQQUmX9oW4Iw2U--76" value="《include》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="335" y="1190" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--78" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="920" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
