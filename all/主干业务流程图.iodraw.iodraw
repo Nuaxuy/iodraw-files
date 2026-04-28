@@ -67,7 +67,7 @@
         <mxCell id="86V-ai54rhiC4k1AqPEN-37" value="配置推荐算法" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1153.5" y="1969" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-38" value="流程结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="86V-ai54rhiC4k1AqPEN-38" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="552.5" y="2373" width="87" height="33" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-39" value="流程结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
