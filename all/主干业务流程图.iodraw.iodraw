@@ -11,7 +11,7 @@
           <mxGeometry x="537" y="1233" width="119" height="119" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-20" value="注册/登录" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="318" y="1268.5" width="132" height="48" as="geometry" />
+          <mxGeometry x="310" y="1268.5" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-21" value="用户角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540.5" y="1440" width="112" height="112" as="geometry" />
@@ -196,6 +196,12 @@
         <mxCell id="86V-ai54rhiC4k1AqPEN-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.02;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-37" target="86V-ai54rhiC4k1AqPEN-41" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="00vAYonrYD4jR4OucdhU-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="1330" as="sourcePoint" />
+            <mxPoint x="570" y="1310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
