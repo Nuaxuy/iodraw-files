@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCBfb5i6Gle8NTvD_rj6-1" value="填写注册信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="1150" width="156" height="48" as="geometry" />
+          <mxGeometry x="880" y="1110" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
