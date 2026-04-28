@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="a1JruoABa_zI9ruHv7Wt">
-    <mxGraphModel dx="1042" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="_X0hJg5ddGr6mVrK9Cjl-601" value="判断身份" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="902" y="1940" width="112" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="_X0hJg5ddGr6mVrK9Cjl-602" value="跳转前台首页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="_X0hJg5ddGr6mVrK9Cjl-602" value="跳转首页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="880" y="2120" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="_X0hJg5ddGr6mVrK9Cjl-603" value="跳转管理后台" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
