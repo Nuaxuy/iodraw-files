@@ -159,7 +159,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SCBfb5i6Gle8NTvD_rj6-1" value="填写注册信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="SCBfb5i6Gle8NTvD_rj6-1" value="进入登录页面" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="880" y="1110" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="SCBfb5i6Gle8NTvD_rj6-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="SCBfb5i6Gle8NTvD_rj6-1" target="_X0hJg5ddGr6mVrK9Cjl-594">
