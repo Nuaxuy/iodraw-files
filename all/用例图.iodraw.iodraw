@@ -14,7 +14,7 @@
           <mxGeometry x="270" y="780" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--6" value="书籍管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="220" width="80" height="60" as="geometry" />
+          <mxGeometry x="260" y="270" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--7" value="购物车管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="80" height="60" as="geometry" />
@@ -83,7 +83,13 @@
           <mxGeometry x="340" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--31" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="80" height="60" as="geometry" />
+          <mxGeometry x="450" y="230" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--32" value="注册" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--33" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="180" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
