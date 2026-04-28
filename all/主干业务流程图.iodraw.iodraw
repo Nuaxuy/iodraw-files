@@ -64,9 +64,6 @@
         <mxCell id="86V-ai54rhiC4k1AqPEN-36" value="增删改查图书" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="947.5" y="1969" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-37" value="配置推荐算法" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1153.5" y="1969" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-38" value="结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="552.5" y="2373" width="87" height="33" as="geometry" />
         </mxCell>
@@ -169,11 +166,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-61" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-33" target="86V-ai54rhiC4k1AqPEN-37" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-29" target="86V-ai54rhiC4k1AqPEN-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -195,11 +187,12 @@
             <mxPoint x="1025" y="2075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-65" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-37" target="86V-ai54rhiC4k1AqPEN-38" edge="1">
+        <mxCell id="86V-ai54rhiC4k1AqPEN-65" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" parent="1" target="86V-ai54rhiC4k1AqPEN-38" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1232" y="2390" />
             </Array>
+            <mxPoint x="1231.5" y="2017" as="sourcePoint" />
             <mxPoint x="1231" y="2075" as="targetPoint" />
           </mxGeometry>
         </mxCell>
