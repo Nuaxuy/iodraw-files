@@ -44,7 +44,7 @@
           <mxGeometry x="326" y="2264" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-30" value="管理功能" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="848" y="1708" width="112" height="112" as="geometry" />
+          <mxGeometry x="849" y="1620" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-31" value="图书管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="739" y="1870" width="124" height="48" as="geometry" />
@@ -94,7 +94,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-47" value="管理员" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-21" target="86V-ai54rhiC4k1AqPEN-23" edge="1">
+        <mxCell id="86V-ai54rhiC4k1AqPEN-47" value="管理员" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-21" target="86V-ai54rhiC4k1AqPEN-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
