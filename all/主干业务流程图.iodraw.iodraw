@@ -76,7 +76,7 @@
         <mxCell id="86V-ai54rhiC4k1AqPEN-41" value="流程结束" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="963" y="2075" width="87" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-18" target="86V-ai54rhiC4k1AqPEN-19" edge="1">
+        <mxCell id="86V-ai54rhiC4k1AqPEN-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-18" target="00vAYonrYD4jR4OucdhU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -203,6 +203,9 @@
             <mxPoint x="480" y="1330" as="sourcePoint" />
             <mxPoint x="570" y="1310" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="00vAYonrYD4jR4OucdhU-2" value="注册/登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="530.5" y="1140" width="132" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
