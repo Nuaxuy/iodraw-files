@@ -28,7 +28,7 @@
         <mxCell id="aClWTZQQUmX9oW4Iw2U--32" value="添加书籍" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="524" y="300" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aClWTZQQUmX9oW4Iw2U--34" value="搜索书籍" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--34" value="编辑书籍信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="524" y="370" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--35" value="" style="endArrow=open;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;targetPerimeterSpacing=0;endSize=6;startArrow=none;startFill=0;endFill=0;fontSize=18;" edge="1" parent="1" source="aClWTZQQUmX9oW4Iw2U--6" target="aClWTZQQUmX9oW4Iw2U--31">
@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--90" value="网络书店系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="414" y="-95" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--94" value="查询书籍" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="534" y="240" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
