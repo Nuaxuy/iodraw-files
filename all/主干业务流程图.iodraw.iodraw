@@ -56,7 +56,7 @@
           <mxGeometry x="1169.5" y="1870" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-34" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1281.5" y="1870" width="124" height="48" as="geometry" />
+          <mxGeometry x="1340" y="1870" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-35" value="审核/发货/完成" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="724.5" y="1969" width="173" height="48" as="geometry" />
