@@ -207,7 +207,7 @@
         <mxCell id="00vAYonrYD4jR4OucdhU-2" value="注册/登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="530.5" y="1140" width="132" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="00vAYonrYD4jR4OucdhU-3" value="注册/登录" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="00vAYonrYD4jR4OucdhU-3" value="是否有账号" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="1380" width="112" height="112" as="geometry" />
         </mxCell>
       </root>
