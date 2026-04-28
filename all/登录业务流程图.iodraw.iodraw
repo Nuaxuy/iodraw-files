@@ -7,7 +7,7 @@
         <mxCell id="_X0hJg5ddGr6mVrK9Cjl-593" value="开始" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="914.5" y="1010" width="87" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="_X0hJg5ddGr6mVrK9Cjl-594" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
+        <mxCell id="_X0hJg5ddGr6mVrK9Cjl-594" value="是否已有账号" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="902" y="1223" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="_X0hJg5ddGr6mVrK9Cjl-595" value="填写注册信息" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" parent="1" vertex="1">
