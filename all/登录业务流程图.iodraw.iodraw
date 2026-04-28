@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCBfb5i6Gle8NTvD_rj6-3" value="跳转前台首页" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="890" y="2130" width="156" height="48" as="geometry" />
+          <mxGeometry x="880" y="2235" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
