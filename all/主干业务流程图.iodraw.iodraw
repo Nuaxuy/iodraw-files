@@ -154,14 +154,16 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1130" y="1800" />
+              <mxPoint x="1232" y="1800" />
             </Array>
             <mxPoint x="1130" y="1740" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="86V-ai54rhiC4k1AqPEN-58" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-30" target="86V-ai54rhiC4k1AqPEN-34" edge="1">
+        <mxCell id="86V-ai54rhiC4k1AqPEN-58" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-30" target="86V-ai54rhiC4k1AqPEN-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1412" y="1680" />
+              <mxPoint x="1130" y="1800" />
+              <mxPoint x="1410" y="1800" />
             </Array>
             <mxPoint x="1405.5" y="1870" as="targetPoint" />
           </mxGeometry>
