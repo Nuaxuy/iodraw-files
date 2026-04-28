@@ -136,9 +136,7 @@
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-55" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-30" target="86V-ai54rhiC4k1AqPEN-31" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1025.5" y="1845" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-56" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.5;entryY=0;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-30" target="86V-ai54rhiC4k1AqPEN-32" edge="1">
@@ -150,9 +148,7 @@
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-57" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=0;rounded=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-30" target="86V-ai54rhiC4k1AqPEN-33" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1231.5" y="1845" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="86V-ai54rhiC4k1AqPEN-58" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" parent="1" source="86V-ai54rhiC4k1AqPEN-30" target="86V-ai54rhiC4k1AqPEN-34" edge="1">
