@@ -187,8 +187,11 @@
         <mxCell id="aClWTZQQUmX9oW4Iw2U--99" value="《include》" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="429" y="1020" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="aClWTZQQUmX9oW4Iw2U--100" value="查看详情" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1110" width="80" height="60" as="geometry" />
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--100" value="查看推荐列表" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="539" y="1190" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--101" value="查看推荐列表" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="549" y="1200" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
