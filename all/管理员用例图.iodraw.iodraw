@@ -40,6 +40,9 @@
             <mxPoint x="414" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aClWTZQQUmX9oW4Iw2U--20" target="aClWTZQQUmX9oW4Iw2U--91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--20" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="524" y="10" width="80" height="60" as="geometry" />
         </mxCell>
@@ -294,6 +297,9 @@
         </mxCell>
         <mxCell id="aClWTZQQUmX9oW4Iw2U--90" value="网络书店系统" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="414" y="-95" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aClWTZQQUmX9oW4Iw2U--91" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="524" y="-130" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
