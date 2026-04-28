@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="_X0hJg5ddGr6mVrK9Cjl-593" value="用户访问" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="914.5" y="1136" width="87" height="33" as="geometry" />
+          <mxGeometry x="914.5" y="1010" width="87" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_X0hJg5ddGr6mVrK9Cjl-594" value="选择操作" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="902" y="1223" width="112" height="112" as="geometry" />
@@ -160,7 +160,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SCBfb5i6Gle8NTvD_rj6-1" value="填写注册信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1142" y="1265" width="156" height="48" as="geometry" />
+          <mxGeometry x="1085" y="1150" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
