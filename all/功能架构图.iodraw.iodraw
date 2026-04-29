@@ -11,7 +11,7 @@
           <mxGeometry x="1094" y="1240" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VLdIva1bUY8MeQVwfbms-202" value="用户" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1600" width="92" height="48" as="geometry" />
+          <mxGeometry x="1102" y="1640" width="92" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VLdIva1bUY8MeQVwfbms-203" value="权限管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1104" y="2588" width="124" height="48" as="geometry" />
