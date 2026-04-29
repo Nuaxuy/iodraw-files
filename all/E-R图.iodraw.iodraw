@@ -1101,7 +1101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qeGd5BJN_0FW57sXrynW-636" value="被关注" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=0;entryX=-0.017;entryY=1.027;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" source="qeGd5BJN_0FW57sXrynW-532" target="qeGd5BJN_0FW57sXrynW-517" edge="1">
-          <mxGeometry x="0.4774" y="38" relative="1" as="geometry">
+          <mxGeometry x="0.4768" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1079" y="-72" />
             </Array>
