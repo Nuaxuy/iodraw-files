@@ -70,6 +70,7 @@
             <Array as="points">
               <mxPoint x="1060" y="2012" />
               <mxPoint x="1060" y="2524" />
+              <mxPoint x="1060" y="2612" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -164,6 +165,9 @@
               <mxPoint x="1270" y="2224" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="e-qSrPk0brNNJZc77oGk-2" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1348" y="2348" width="124" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
