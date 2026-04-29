@@ -44,7 +44,7 @@
           <mxGeometry x="1338" y="2200" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VLdIva1bUY8MeQVwfbms-226" value="个人中心" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1338" y="2338" width="124" height="48" as="geometry" />
+          <mxGeometry x="1340" y="2310" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VLdIva1bUY8MeQVwfbms-245" value="接口拦截器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1332" y="2540" width="140" height="48" as="geometry" />
@@ -96,7 +96,7 @@
             <Array as="points">
               <mxPoint x="1270" y="2012" />
               <mxPoint x="1270" y="2180" />
-              <mxPoint x="1270" y="2362" />
+              <mxPoint x="1270" y="2334" />
             </Array>
           </mxGeometry>
         </mxCell>
