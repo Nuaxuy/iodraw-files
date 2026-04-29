@@ -95,7 +95,7 @@
         <mxCell id="VLdIva1bUY8MeQVwfbms-275" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;exitDx=0;exitDy=0;fontSize=25;" parent="1" source="VLdIva1bUY8MeQVwfbms-202" target="VLdIva1bUY8MeQVwfbms-226" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1270" y="2012" />
+              <mxPoint x="1270" y="1664" />
               <mxPoint x="1270" y="1794" />
             </Array>
           </mxGeometry>
@@ -169,10 +169,10 @@
         <mxCell id="e-qSrPk0brNNJZc77oGk-2" value="评论与评分" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="1344" y="1840" width="132" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="e-qSrPk0brNNJZc77oGk-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="1" source="VLdIva1bUY8MeQVwfbms-202" target="e-qSrPk0brNNJZc77oGk-2">
+        <mxCell id="e-qSrPk0brNNJZc77oGk-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=25;" edge="1" parent="1" source="VLdIva1bUY8MeQVwfbms-202">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1470" y="2200" as="sourcePoint" />
-            <mxPoint x="1520" y="2150" as="targetPoint" />
+            <mxPoint x="1340" y="1864" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1270" y="1664" />
               <mxPoint x="1270" y="1864" />
