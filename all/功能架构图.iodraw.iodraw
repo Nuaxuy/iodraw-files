@@ -106,7 +106,7 @@
         <mxCell id="VLdIva1bUY8MeQVwfbms-294" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;fontSize=25;" parent="1" source="VLdIva1bUY8MeQVwfbms-203" target="VLdIva1bUY8MeQVwfbms-245" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1258" y="1996" />
+              <mxPoint x="1258" y="1980" />
               <mxPoint x="1258" y="1948" />
             </Array>
           </mxGeometry>
@@ -114,8 +114,8 @@
         <mxCell id="VLdIva1bUY8MeQVwfbms-295" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;fontSize=25;" parent="1" source="VLdIva1bUY8MeQVwfbms-203" target="VLdIva1bUY8MeQVwfbms-246" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1258" y="1996" />
-              <mxPoint x="1258" y="2076" />
+              <mxPoint x="1260" y="1974" />
+              <mxPoint x="1260" y="2012" />
             </Array>
           </mxGeometry>
         </mxCell>
