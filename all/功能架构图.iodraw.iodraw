@@ -29,7 +29,7 @@
           <mxGeometry x="1332" y="1340" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VLdIva1bUY8MeQVwfbms-221" value="注册与登录" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="1660" width="140" height="48" as="geometry" />
+          <mxGeometry x="1340" y="1430" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VLdIva1bUY8MeQVwfbms-222" value="图书浏览与搜索" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" parent="1" vertex="1">
           <mxGeometry x="1314" y="1790" width="172" height="48" as="geometry" />
