@@ -2831,11 +2831,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rE8Q_oxuxg3bppYerY2j-372" value="发起咨询" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.96;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="rE8Q_oxuxg3bppYerY2j-1" target="rE8Q_oxuxg3bppYerY2j-192">
+        <mxCell id="rE8Q_oxuxg3bppYerY2j-372" value="发起咨询" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" target="rE8Q_oxuxg3bppYerY2j-192">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3919" y="875" />
             </Array>
+            <mxPoint x="3782" y="781" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-373" value="被添加" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.61;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="rE8Q_oxuxg3bppYerY2j-228" target="rE8Q_oxuxg3bppYerY2j-58">
