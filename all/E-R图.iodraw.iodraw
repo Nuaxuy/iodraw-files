@@ -2886,7 +2886,9 @@
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-377" value="被评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.39;rounded=0;exitX=0.648;exitY=1.239;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-578" target="rE8Q_oxuxg3bppYerY2j-136">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1130" y="420" />
+            </Array>
             <mxPoint x="1360" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
