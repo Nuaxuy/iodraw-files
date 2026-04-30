@@ -1443,7 +1443,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rE8Q_oxuxg3bppYerY2j-371" value="发表评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=1;entryY=0.32;rounded=0;exitX=0.299;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-423" target="rE8Q_oxuxg3bppYerY2j-136">
+        <mxCell id="rE8Q_oxuxg3bppYerY2j-371" value="发表评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=1;entryY=0.5;rounded=0;exitX=0.299;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-423" target="rE8Q_oxuxg3bppYerY2j-152">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1675" y="402" />
@@ -2885,7 +2885,7 @@
             <mxRectangle width="72" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rE8Q_oxuxg3bppYerY2j-377" value="被评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.39;rounded=0;exitX=0.648;exitY=1.239;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-578" target="rE8Q_oxuxg3bppYerY2j-136">
+        <mxCell id="rE8Q_oxuxg3bppYerY2j-377" value="被评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.5;rounded=0;exitX=0.648;exitY=1.239;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-578" target="rE8Q_oxuxg3bppYerY2j-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1130" y="420" />
