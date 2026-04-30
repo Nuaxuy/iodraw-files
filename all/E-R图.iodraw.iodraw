@@ -185,13 +185,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-330" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-327">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-331" value="问题ID(主键)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-327">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-332" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -208,13 +208,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-335" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-332">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-336" value="问题标题" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-332">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-337" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -231,13 +231,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-340" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-337">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-341" value="问题答案" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-337">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-342" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -254,13 +254,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-345" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-342">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-346" value="问题分类" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-342">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-347" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -277,13 +277,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-350" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-347">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-351" value="搜索关键词" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-347">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-352" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -300,13 +300,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-355" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-352">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-356" value="浏览次数" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-352">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-357" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -323,13 +323,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-360" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-357">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-361" value="创建时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-357">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-362" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-326">
@@ -346,13 +346,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-365" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-362">
-          <mxGeometry x="136" width="22" height="22" as="geometry">
-            <mxRectangle width="22" height="22" as="alternateBounds" />
+          <mxGeometry x="136" width="34" height="22" as="geometry">
+            <mxRectangle width="34" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-366" value="更新时间" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=2;overflow=hidden;fontSize=22;" vertex="1" parent="rE8Q_oxuxg3bppYerY2j-362">
-          <mxGeometry x="158" width="102" height="22" as="geometry">
-            <mxRectangle width="102" height="22" as="alternateBounds" />
+          <mxGeometry x="170" width="90" height="22" as="geometry">
+            <mxRectangle width="90" height="22" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rE8Q_oxuxg3bppYerY2j-371" value="发表评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=1;entryY=0.5;rounded=0;exitX=0.299;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-423" target="rE8Q_oxuxg3bppYerY2j-162">
