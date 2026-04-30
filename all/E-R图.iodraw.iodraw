@@ -2831,9 +2831,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rE8Q_oxuxg3bppYerY2j-372" value="发起咨询" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.5;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-397" target="rE8Q_oxuxg3bppYerY2j-203">
+        <mxCell id="rE8Q_oxuxg3bppYerY2j-372" value="发起咨询" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0.004;entryY=1.045;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-397" target="rE8Q_oxuxg3bppYerY2j-198">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1788" y="-52" />
+            </Array>
             <mxPoint x="1780" y="110" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
