@@ -1446,7 +1446,7 @@
         <mxCell id="rE8Q_oxuxg3bppYerY2j-371" value="发表评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=1;entryY=0.5;rounded=0;exitX=0.299;exitY=1.078;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-423" target="rE8Q_oxuxg3bppYerY2j-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1675" y="402" />
+              <mxPoint x="1675" y="460" />
             </Array>
             <mxPoint x="2370" y="490" as="sourcePoint" />
           </mxGeometry>
@@ -2888,7 +2888,7 @@
         <mxCell id="rE8Q_oxuxg3bppYerY2j-377" value="被评论" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.5;rounded=0;exitX=0.648;exitY=1.239;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qeGd5BJN_0FW57sXrynW-578" target="rE8Q_oxuxg3bppYerY2j-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1130" y="420" />
+              <mxPoint x="1128" y="461" />
             </Array>
             <mxPoint x="1360" y="710" as="sourcePoint" />
           </mxGeometry>
