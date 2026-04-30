@@ -1490,7 +1490,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qeGd5BJN_0FW57sXrynW-637" value="被推荐" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0;exitY=0.5;rounded=0;exitDx=0;exitDy=0;entryX=0.306;entryY=1.027;entryDx=0;entryDy=0;fontSize=22;spacing=2;entryPerimeter=0;" parent="1" source="qeGd5BJN_0FW57sXrynW-553" target="qeGd5BJN_0FW57sXrynW-625" edge="1">
+        <mxCell id="qeGd5BJN_0FW57sXrynW-637" value="被推荐" style="curved=0;startArrow=ERmandOne;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.19;exitY=0.008;rounded=0;exitDx=0;exitDy=0;entryX=0.306;entryY=1.027;entryDx=0;entryDy=0;fontSize=22;spacing=2;entryPerimeter=0;exitPerimeter=0;" parent="1" source="qeGd5BJN_0FW57sXrynW-532" target="qeGd5BJN_0FW57sXrynW-625" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="830" y="204" as="targetPoint" />
